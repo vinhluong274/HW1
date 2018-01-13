@@ -1,0 +1,759 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 8732,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kf9QjwEACAAJ",
+   "etag": "wJfFBEqdX4o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kf9QjwEACAAJ",
+   "volumeInfo": {
+    "title": "The Hunger Games",
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:930689621"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kf9QjwEACAAJ&dq=title:the+hunger+games&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kf9QjwEACAAJ&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games.html?hl=&id=kf9QjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kf9QjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tm4wBQAAQBAJ",
+   "etag": "MQHZvavOZrM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tm4wBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Terror In The Tar Sands",
+    "authors": [
+     "Martin Avery"
+    ],
+    "publisher": "Lulu.com",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781300985624"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1300985623"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tm4wBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tm4wBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tm4wBQAAQBAJ&pg=PT158&dq=title:the+hunger+games&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tm4wBQAAQBAJ&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Terror_In_The_Tar_Sands.html?hl=&id=tm4wBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tm4wBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... Secret Agents, Love and Death has a 10.2% chance of being a bestselling title! \u003cbr\u003e\nThe title The Adventures Of OilSandMan has a 41.4% chance of being a \u003cbr\u003e\nbestselling title! The title Nuke The Tar Sands! has a 20.1% chance of being a \u003cbr\u003e\nbestselling title! The title Who Has Seen The Wind has a 44.2% chance of being \u003cbr\u003e\na bestselling title! The title Gone With The Wind has a 44.2% chance of being a \u003cbr\u003e\nbestselling title! The \u003cb\u003etitle The Hunger Games\u003c/b\u003e has a 10.2% chance of being a \u003cbr\u003e\nbestselling title!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c9RGBAAAQBAJ",
+   "etag": "kHOyE8fXvRY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c9RGBAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Hunger Games Complete Trilogy",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Scholastic UK",
+    "publishedDate": "2013-10-03",
+    "description": "Set in a dark vision of the near future, a terrifying reality TV show is taking place. Twelve boys and twelve girls are forced to appear in a live event called The Hunger Games. There is only one rule: kill or be killed. When sixteen-year-old Katniss Everdeen steps forward to take her younger sister's place in the games, she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781407139982"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1407139983"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1344,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c9RGBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c9RGBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c9RGBAAAQBAJ&pg=PT1&dq=title:the+hunger+games&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c9RGBAAAQBAJ&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games_Complete_Trilogy.html?hl=&id=c9RGBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Hunger_Games_Complete_Trilogy-sample-epub.acsm?id=c9RGBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Hunger_Games_Complete_Trilogy-sample-pdf.acsm?id=c9RGBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c9RGBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Contents Cover Praise for The Hunger Games The Hunger Games Cover The \u003cbr\u003e\nHunger Games Half \u003cb\u003eTitle The Hunger Games\u003c/b\u003e Title page The Hunger Games \u003cbr\u003e\nDedication The Hunger Games Part I:The Tributes The Hunger Games Part II:The \u003cbr\u003e\nGames The Hunger Games Part III: The Victor The Hunger Games Getting \u003cbr\u003e\ntoKnow Suzanne Collins Catching Fire Cover Catching Fire Half Title Catching \u003cbr\u003e\nFire Title page Catching Fire Dedication CatchingFire PartI: TheSpark Catching \u003cbr\u003e\nFire Part II: The&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J2uiDAAAQBAJ",
+   "etag": "Dm3LtExl1Iw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J2uiDAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Hunger Games: An Instructional Guide for Literature",
+    "subtitle": "An Instructional Guide for Literature",
+    "authors": [
+     "Charles Aracich"
+    ],
+    "publisher": "Teacher Created Materials",
+    "publishedDate": "2016-07-01",
+    "description": "The Hunger Games: An Instructional Guide for Literature e-Book provides lesson plans and activities for this engaging Young Adult fiction novel. This valuable resource guides teachers with ways to add rigor with complex literature. Text-dependent questions help students analyze the text with higher-order thinking skills, with lessons focused on story elements, vocabulary, and more. Close reading activities throughout the literature units encourages students to use textual evidence as they revisit passages to respond more critically. With various methods of assessing comprehension, this instructional guide offers strategies for cross-curricular activities as students build a greater understanding of this great literary work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781425835316"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1425835317"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J2uiDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J2uiDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=J2uiDAAAQBAJ&pg=PA11&dq=title:the+hunger+games&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=J2uiDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-J2uiDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=J2uiDAAAQBAJ&rdid=book-J2uiDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.695E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Hunger_Games_An_Instructional_Guide-sample-pdf.acsm?id=J2uiDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J2uiDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "She continued to write for other successful shows, including Little Bear, Oswald, \u003cbr\u003e\nand Clifford&#39;s Puppy Days . These ventures led to her first book, Gregor the \u003cbr\u003e\nOverlander, which fulfilled her inspiration to write for children . This book is part of \u003cbr\u003e\nthe Underland Chronicles series, which has spawned four other books between \u003cbr\u003e\n2003 and 2007 . Her most notable \u003cb\u003etitle, The Hunger Games\u003c/b\u003e, was first published in \u003cbr\u003e\n2008 . Collins used her father&#39;s career in the Air Force to help with the themes of \u003cbr\u003e\nthe&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Oaw3BAAAQBAJ",
+   "etag": "l+dgeZYYSiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Oaw3BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Smart Pop Preview 2014",
+    "subtitle": "Standalone Essays on Divergent, Zombies, the Hunger Games, Veronica Mars, and Fanfiction",
+    "publisher": "BenBella Books, Inc.",
+    "publishedDate": "2014-07-01",
+    "description": "Get a sneak peak at Smart Pop's 2013 titles with this preview volume of standalone essays! Volume Includes: \"Truth and Lies\" – Debra Driza Downtown Chicago Faction Map from \"Mapping Divergent's Chicago\" – V. Arrow From Divergent Thinking: YA Authors on Veronica Roth's Divergent Trilogy, edited by Leah Wilson \"Welcome to the Zombie Apocalypse\" and \"Overnight of the Living Dead French Toast\" - Lauren Wilson From The Art of Eating Through the Zombie Apocalypse: A Cookbook and Culinary Survival Guide \"Crime of Fashion\" - Terri Clark From The Girl Who Was on Fire - Movie Edition, edited by Leah Wilson \"Truly, My Name Is Cinna\" - V. Arrow From The Panem Companion: An Unofficial Guide to Suzanne Collins' Hunger Games, From Mellark Bakery to Mockingjays \"Lawless Neptune\" - Alafair Burke From Neptune Noir: Unauthorized Investigations into Veronica Mars, edited by Rob Thomas \"Introduction: Why Fic?\" - Anne Jamison \"Blurring the Lines\" - Amber Benson From Fic: Why Fanfiction Is Taking Over the World, by Anne Jamison Plus an excerpt from the first book of Joanna Wiebe’s new YA trilogy, The Unseemly Education of Anne Merchant",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781941631126"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1941631126"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Oaw3BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Oaw3BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Oaw3BAAAQBAJ&pg=PT1&dq=title:the+hunger+games&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Oaw3BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Oaw3BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Oaw3BAAAQBAJ&rdid=book-Oaw3BAAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Smart_Pop_Preview_2014-sample-epub.acsm?id=Oaw3BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Smart_Pop_Preview_2014-sample-pdf.acsm?id=Oaw3BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Oaw3BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Standalone Essays on Divergent, Zombies, the \u003cb\u003eHunger Games\u003c/b\u003e, Veronica Mars, \u003cbr\u003e\nand Fanfiction. Dear Reader, Welcome to our 2014 Preview! Hopefully this isn&#39;t \u003cbr\u003e\nthe first time you&#39;re picking this up, and you already know what to expect: smart, \u003cbr\u003e\ninsightful, funny people talking about pop culture television, books, comics, and \u003cbr\u003e\nfilm. In the past decadeplus, we&#39;ve released nearly seventyfive \u003cb\u003etitles\u003c/b\u003e, on subjects \u003cbr\u003e\nlike Buffy the Vampire Slayer, Dexter, Star Trek, Batman, Pride and Prejudice, the\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZDxEDwAAQBAJ",
+   "etag": "CH4FOjOYhro",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZDxEDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Peace and Resistance in Youth Cultures",
+    "subtitle": "Reading the Politics of Peacebuilding from Harry Potter to The Hunger Games",
+    "authors": [
+     "Siobhan McEvoy-Levy"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-12-21",
+    "description": "This book offers a rationale for and ways of reading popular culture for peace. It argues that we can improve peacebuilding theory and practice through examining popular culture’s youth revolutionaries and their outcomes - from their digital and plastic renderings to their living embodiments in local struggles for justice. The study combines insights from post-structural, post-colonial, feminist, youth studies and peace and conflict studies theories to analyze the literary themes, political uses, and cultural impacts of two hit book series – Harry Potter and The Hunger Games – tracing how these works have been transformed into visible political practices, including social justice advocacy and government propaganda in the War on Terror. Pop culture production and consumption help maintain global hierarchies of inequality and structural violence but can also connect people across divisions through fandom participation. Including chapters on fan activism, fan fiction, Guantanamo Bay detention center, youth as a discursive construct in IR, and the merchandizing and tourism opportunities connected with The Hunger Games, the book argues that through taking youth-oriented pop culture seriously, we can better understand the local, global and transnational spaces, discourses, and the relations of power, within which meanings and practices of peace are known, negotiated, encoded and obstructed.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781137498717"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1137498714"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZDxEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZDxEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZDxEDwAAQBAJ&pg=PA350&dq=title:the+hunger+games&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZDxEDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZDxEDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 119.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 95.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZDxEDwAAQBAJ&rdid=book-ZDxEDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.19E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.52E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Peace_and_Resistance_in_Youth_Cultures-sample-epub.acsm?id=ZDxEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Peace_and_Resistance_in_Youth_Cultures-sample-pdf.acsm?id=ZDxEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZDxEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reading the Politics of Peacebuilding from Harry Potter to The Hunger Games \u003cbr\u003e\nSiobhan McEvoy-Levy. Hunger Games&#39; in their headlines, but the comparisons \u003cbr\u003e\nwere apt. Human Rights Watch published a piece about unaccompanied Afghan \u003cbr\u003e\nchildren.96 The British organization War on Want used the \u003cb\u003etitle The Hunger\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eGames\u003c/b\u003e for its report criticizing &#39;The UK government&#39;s Department for International \u003cbr\u003e\nDevelopment (DFID)[...] using the aid budget to tighten the corporate stranglehold \u003cbr\u003e\nover&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_zSzAwAAQBAJ",
+   "etag": "1vNbQbkHEqY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_zSzAwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Hunger Games",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Scholastic",
+    "publishedDate": "2012",
+    "description": "First in the ground-breaking HUNGER GAMES trilogy, this new foiled edition of THE HUNGER GAMES is available for a limited period of time. Set in a dark vision of the near future, a terrifying reality TV show is taking place. Twelve boys and twelve girls are forced to appear in a live event called The Hunger Games. There is only one rule: kill or be killed. When sixteen-year-old Katniss Everdeen steps forward to take her younger sister's place in the games, she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781407133171"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1407133179"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 35,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_zSzAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_zSzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_zSzAwAAQBAJ&printsec=frontcover&dq=title:the+hunger+games&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_zSzAwAAQBAJ&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games.html?hl=&id=_zSzAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Hunger_Games-sample-epub.acsm?id=_zSzAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_zSzAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "First in the ground-breaking HUNGER GAMES trilogy, this new foiled edition of THE HUNGER GAMES is available for a limited period of time."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qm51drFoMQoC",
+   "etag": "DbcJ1kCkfDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qm51drFoMQoC",
+   "volumeInfo": {
+    "title": "Getting Beyond \"interesting\"",
+    "subtitle": "Teaching Students the Vocabulary of Appeal to Discuss Their Reading",
+    "authors": [
+     "Olga M. Nesi"
+    ],
+    "publisher": "ABC-CLIO",
+    "publishedDate": "2012",
+    "description": "\"This book provides a detailed plan and ready-to-use lessons for teaching appeal terms and Book Hook writing to students\"--",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598849356"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1598849352"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 183,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Qm51drFoMQoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Qm51drFoMQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Qm51drFoMQoC&pg=PA119&dq=title:the+hunger+games&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Qm51drFoMQoC&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Getting_Beyond_interesting.html?hl=&id=Qm51drFoMQoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Qm51drFoMQoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eTitle: The Hunger Games\u003c/b\u003e Author: Suzanne Collins Genre: Science Fiction Here&#39;s \u003cbr\u003e\nthe Hook: It is the distant future. The United States has become Panem and the \u003cbr\u003e\nstates have been replaced by twelve districts. The population of Panem lives in \u003cbr\u003e\nconstant fear of its government. Starvation and violence are the norm. To insure \u003cbr\u003e\nthat people remain fearful of the government, each year, every district must send \u003cbr\u003e\none boy and one girl between the ages of twelve and eighteen to Panem&#39;s \u003cbr\u003e\nHunger&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y6dEjgEACAAJ",
+   "etag": "94jL++4DPZU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y6dEjgEACAAJ",
+   "volumeInfo": {
+    "title": "The Hunger Games",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publishedDate": "2015-11",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1760159476"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781760159474"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 1965,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Y6dEjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Y6dEjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Y6dEjgEACAAJ&dq=title:the+hunger+games&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Y6dEjgEACAAJ&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games.html?hl=&id=Y6dEjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y6dEjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In a dark vision of the near future, twelve boys and twelve girls are forced to appear in a live TV show called the The Hunger Games. There is only one rule: kill or be killed. Will 16-year-old Katniss survive?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YexMPgAACAAJ",
+   "etag": "kepBZF4n2ZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YexMPgAACAAJ",
+   "volumeInfo": {
+    "title": "Battle Royale: The Novel",
+    "authors": [
+     "Koushun Takami"
+    ],
+    "publisher": "VIZ Media LLC",
+    "publishedDate": "2009-11-17",
+    "description": "In an alternative future Japan, junior high students are forced to fight to the death! L to R (Western Style). Koushun Takami's notorious high-octane thriller is based on an irresistible premise: a class of junior high school students is taken to a deserted island where, as part of a ruthless authoritarian program, they are provided arms and forced to kill one another until only one survivor is left standing. Criticized as violent exploitation when first published in Japan--where it then proceeded to become a runaway bestseller--Battle Royale is a Lord of the Fliesfor the 21st century, a potent allegory of what it means to be young and (barely) alive in a dog-eat-dog world. Made into a controversial hit movie of the same name, Battle Royale is already a contemporary Japanese pulp classic, now available for the first time in the English language. A group of high school students are taken to small isolated island and forced to fight each other until only one remains alive! If they break the rules a special collar blows their heads off. Koushun Takami's brutal, high-octane thriller is told in breathless. blow-by-blow fashion. Battle Royale is a contemporary Japanese pulp classic now available for the first time in English.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1421527723"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781421527727"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 72,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YexMPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YexMPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YexMPgAACAAJ&dq=title:the+hunger+games&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YexMPgAACAAJ&dq=title:the+hunger+games&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Battle_Royale_The_Novel.html?hl=&id=YexMPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YexMPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Koushun Takami&#39;s notorious high-octane thriller is based on an irresistible premise: a class of junior high school students is taken to a deserted island where, as part of a ruthless authoritarian program, they are provided arms and forced ..."
+   }
+  }
+ ]
+}
