@@ -95,22 +95,30 @@ def result():
 # Points will be assigned for each specification in the problem.
 @app.route('/problem4form',methods=["GET","POST"])
 def form():
-    formstring = """<br><br>
-    What is your favorite book?: <br>
-    <form action="./problem4form" method='POST'>
-<input type="text" name="book"> <br>
-<input type="submit" value="Submit">
+    formstring = """<br>
+    <form method='POST'>
+    Please enter your name: <br>
+        <input action="./problem4form" type="text" name="name"> <br>
+    What is your favorite city: <br>
+        <input type="text" name="city"> <br>
+    Do you like cats or dogs more? <br>
+        <input type="radio" name="campus" value="on-campus" checked>On-Campus<br>
+        <input type="radio" name="campus" value="off-campus">Off-Campus<br>
+        <input type="radio" name="campus" value="other"> Other<br>
+    <input type="submit" value="Submit">
 """
     if request.method == "POST":
-        book = request.form["book"]
-        url = "https://www.googleapis.com/books/v1/volumes?q=title:" + book
-        data = requests.get(url)
-        items = data.json()["items"]
-        string = items[1]['description']
-        # for i in items:
-        #     if "description" in i:
-        #         string = i["description"]
-        return formstring + string
+        city = request.form["city"]
+        name = request.form["name"]
+        campus = request.form["campus"]
+        key = "AIzaSyB1txrkdXQ4P35f22DoVMZDmaovPwnuxxk"
+        results = requests.get('https://maps.googleapis.com/maps/api/geocode/json?address='+ city + "&key=" + key)
+        jsonResults = results.json()
+        coordinates = jsonResults['results'][0]['geometry']['location']
+        lat = str(coordinates["lat"])
+        lng =str(coordinates["lng"])
+        greeting = " <br><h3> Hello {}, you are an off campus student and your favorite city's coordinates are: {}, {} </h3>".format(name,lat,lng)
+        return formstring + greeting
 
     else:
         return formstring
