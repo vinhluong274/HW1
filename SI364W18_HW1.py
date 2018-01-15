@@ -6,9 +6,10 @@
 
 ## List below here, in a comment/comments, the people you worked with on this assignment AND any resources you used to find code (50 point deduction for not doing so). If none, write "None".
 # Worked by myself
-#Used w3Schools and Google Geocoding API reference to complete problem 4 direct links below:
+#Used w3Schools, stackoverflow, and Google Geocoding API reference to complete problem 4 direct links below:
 #https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_form_checkbox
 #https://developers.google.com/maps/documentation/geocoding/start
+#https://stackoverflow.com/questions/32189673/flask-isnt-getting-the-checkbox-value
 
 
 ## [PROBLEM 1] - 150 points
@@ -23,17 +24,13 @@ def hello_to_you():
     return 'Welcome to SI 364!'
 
 
-
-
 ## [PROBLEM 2] - 250 points
 ## Edit the code chunk above again so that if you go to the URL 'http://localhost:5000/movie/<name-of-movie-here-one-word>' you see a big dictionary of data on the page. For example, if you go to the URL 'http://localhost:5000/movie/ratatouille', you should see something like the data shown in the included file sample_ratatouille_data.txt, which contains data about the animated movie Ratatouille. However, if you go to the url http://localhost:5000/movie/titanic, you should get different data, and if you go to the url 'http://localhost:5000/movie/dsagdsgskfsl' for example, you should see data on the page that looks like this:
-
 
 # {
 #  "resultCount":0,
 #  "results": []
 # }
-
 
 ## You should use the iTunes Search API to get that data.
 ## Docs for that API are here: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
@@ -47,8 +44,6 @@ def movie(movie):
     string = data.json()
     return "<p>{}</p>".format(string)
 
-
-
 ## [PROBLEM 3] - 250 points
 
 ## Edit the above Flask application code so that if you run the application locally and got to the URL http://localhost:5000/question, you see a form that asks you to enter your favorite number.
@@ -59,7 +54,7 @@ def question():
     s = """<!DOCTYPE html>
 <html>
 <body>
-<form action="/result" method="GET">
+<form action="/result" method="POST">
   Enter Your Favorite Number:<br>
   <input type="text" name="number">
   <br>
