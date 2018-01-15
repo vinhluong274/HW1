@@ -5,7 +5,10 @@
 #################################
 
 ## List below here, in a comment/comments, the people you worked with on this assignment AND any resources you used to find code (50 point deduction for not doing so). If none, write "None".
-
+# Worked by myself
+#Used w3Schools and Google Geocoding API reference to complete problem 4 direct links below:
+#https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_form_checkbox
+#https://developers.google.com/maps/documentation/geocoding/start
 
 
 ## [PROBLEM 1] - 150 points
@@ -101,23 +104,28 @@ def form():
         <input action="./problem4form" type="text" name="name"> <br>
     What is your favorite city: <br>
         <input type="text" name="city"> <br>
-    Do you like cats or dogs more? <br>
-        <input type="radio" name="campus" value="on-campus" checked>On-Campus<br>
-        <input type="radio" name="campus" value="off-campus">Off-Campus<br>
-        <input type="radio" name="campus" value="other"> Other<br>
+    Do you like cats or dogs? <br>
+        <input type="checkbox" name="pet" value="dogs">Dogs<br>
+        <input type="checkbox" name="pet" value="cats">Cats<br>
     <input type="submit" value="Submit">
 """
     if request.method == "POST":
         city = request.form["city"]
         name = request.form["name"]
-        campus = request.form["campus"]
+        pets = request.form.getlist("pet")
         key = "AIzaSyB1txrkdXQ4P35f22DoVMZDmaovPwnuxxk"
         results = requests.get('https://maps.googleapis.com/maps/api/geocode/json?address='+ city + "&key=" + key)
         jsonResults = results.json()
         coordinates = jsonResults['results'][0]['geometry']['location']
         lat = str(coordinates["lat"])
         lng =str(coordinates["lng"])
-        greeting = " <br><h3> Hello {}, you are an off campus student and your favorite city's coordinates are: {}, {} </h3>".format(name,lat,lng)
+        if len(pets) == 2:
+             pet = "cats and dogs"
+        elif len(pets) == 1:
+            pet = pets[0]
+        else:
+            pet = "neither cats nor dogs"
+        greeting = " <br><h3> Hello {}, you like {}, and your favorite city's coordinates are: {}, {} </h3>".format(name,pet,lat,lng)
         return formstring + greeting
 
     else:
